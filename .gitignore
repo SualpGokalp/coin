@@ -1,0 +1,32 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# Data & Logs
+data/
+*.db
+*.log
+*.sqlite3
+
+# API Keys
+.env
+config_local.py
+secrets.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Charts (büyük dosyalar)
+charts/*.png
