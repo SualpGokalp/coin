@@ -30,3 +30,6 @@ Thumbs.db
 
 # Charts (büyük dosyalar)
 charts/*.png
+
+# Local tool config
+.claude/
